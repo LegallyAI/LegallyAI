@@ -1,1 +1,1 @@
-# AI-based-Legal-Research-Assistant
+A full-stack legal-tech platform that combines AI-based legal query solving with a marketplace to connect users with verified lawyers. Built using Next.js (App Router), Prisma, PostgreSQL, and integrated with Resend for email notifications. Supports custom role-based authentication and admin lawyer verification workflow.
